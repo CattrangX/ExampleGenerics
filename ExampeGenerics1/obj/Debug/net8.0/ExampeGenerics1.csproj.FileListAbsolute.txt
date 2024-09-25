@@ -1,0 +1,14 @@
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\bin\Debug\net8.0\ExampeGenerics1.exe
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\bin\Debug\net8.0\ExampeGenerics1.deps.json
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\bin\Debug\net8.0\ExampeGenerics1.runtimeconfig.json
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\bin\Debug\net8.0\ExampeGenerics1.dll
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\bin\Debug\net8.0\ExampeGenerics1.pdb
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.AssemblyInfoInputs.cache
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.AssemblyInfo.cs
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.dll
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\refint\ExampeGenerics1.dll
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.pdb
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ExampeGenerics1.genruntimeconfig.cache
+C:\Users\LAPTOP AK\Desktop\oop c#\ExampeGenerics1\ExampeGenerics1\obj\Debug\net8.0\ref\ExampeGenerics1.dll

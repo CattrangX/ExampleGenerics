@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP AK\\Desktop\\oop c#\\ExampeGenerics1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D207B7C5-BE1D-44C9-8D91-4E7CEFEDC385}|ExampeGenerics1\\ExampeGenerics1.csproj|c:\\users\\laptop ak\\desktop\\oop c#\\exampegenerics1\\exampegenerics1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207B7C5-BE1D-44C9-8D91-4E7CEFEDC385}|ExampeGenerics1\\ExampeGenerics1.csproj|solutionrelative:exampegenerics1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207B7C5-BE1D-44C9-8D91-4E7CEFEDC385}|ExampeGenerics1\\ExampeGenerics1.csproj|c:\\users\\laptop ak\\desktop\\oop c#\\exampegenerics1\\exampegenerics1\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207B7C5-BE1D-44C9-8D91-4E7CEFEDC385}|ExampeGenerics1\\ExampeGenerics1.csproj|solutionrelative:exampegenerics1\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP AK\\Desktop\\oop c#\\ExampeGenerics1\\ExampeGenerics1\\MyClass.cs",
+              "RelativeDocumentMoniker": "ExampeGenerics1\\MyClass.cs",
+              "ToolTip": "C:\\Users\\LAPTOP AK\\Desktop\\oop c#\\ExampeGenerics1\\ExampeGenerics1\\MyClass.cs",
+              "RelativeToolTip": "ExampeGenerics1\\MyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:46:29.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP AK\\Desktop\\oop c#\\ExampeGenerics1\\ExampeGenerics1\\Program.cs",
+              "RelativeDocumentMoniker": "ExampeGenerics1\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP AK\\Desktop\\oop c#\\ExampeGenerics1\\ExampeGenerics1\\Program.cs*",
+              "RelativeToolTip": "ExampeGenerics1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:45:59.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
